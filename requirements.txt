@@ -1,0 +1,6 @@
+torch
+sahi
+yolov8
+ultralytics
+numpy
+opencv-python
